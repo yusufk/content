@@ -31,6 +31,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Install jq
+        run: sudo apt-get install -y jq
+      - name: Generate index.json
+        run: |
+          cd published
+          files=$(find . -maxdepth 1 -name "*.md" -type f -exec basename {} \; | jq -R . | jq -s .)
+          echo $files > index.json
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
