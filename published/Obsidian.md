@@ -69,3 +69,6 @@ fi
 
 echo "Successfully published changes"
 ```
+
+
+#content #obsidian

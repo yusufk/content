@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "published/Obsidian.md",
+                "file": "published/websites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian"
+              "title": "websites"
             }
           }
         ],
@@ -199,16 +199,16 @@
   },
   "active": "4eed449b229e7eac",
   "lastOpenFiles": [
-    "published/Thoughts on AI.md",
+    "published/azure.md",
+    "published/websites.md",
     "published/Obsidian.md",
+    "published/Thoughts on AI.md",
     "published/flight.md",
     "published/nft.md",
     "yusuf.kaka.co.za.md",
     "draft",
-    "published/azure.md",
     "published",
     "Welcome.md",
-    "published/websites.md",
     "published/microsoft.md"
   ]
 }
