@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "published/Thoughts on AI.md",
+                "file": "published/Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thoughts on AI"
+              "title": "Obsidian"
             }
           }
         ],
@@ -197,10 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95a17e7f5f198122",
+  "active": "4eed449b229e7eac",
   "lastOpenFiles": [
-    "published/Obsidian.md",
     "published/Thoughts on AI.md",
+    "published/Obsidian.md",
     "published/flight.md",
     "published/nft.md",
     "yusuf.kaka.co.za.md",
