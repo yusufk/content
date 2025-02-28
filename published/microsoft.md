@@ -32,3 +32,5 @@ My personal journey in AI took a leap forward as well. Having used AIML to creat
 
 Apologies, I've been busy
 So this site has been neglected and I apologise (to myself?), but hopefully there's enough evidence out there on my GitHub activity and LinkedIn to account for my time. Right now, I'm focussing on Azure App Dev certification, so I may take the opportunity to practice using this site. This article was inspired by me checking in on the App Service settings as I read through the learning path. Hopefully, more updates to come!
+
+#microsoft 
