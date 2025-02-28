@@ -18,4 +18,4 @@ It also helps explain the behaviour of many so-called experts I come across and 
 
 I chose *not* to use Generative AI for this piece, it just didn't feel right to. Also, I have a genuine concern that I'm not sure what I'm trading in exchange for this new technology. Is it my own creativity or skill to convey thoughts into written language? Whatever it is, I hope that it's not our own intelligence. 
 
-
+#AI #Humans #Nature 
