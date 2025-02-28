@@ -16,3 +16,5 @@ Finally, I used an add-on from the marketplace to enable exports and imports to 
 The site is still running for free, however, I am consuming free credits at about R100 a month, mostly from the use of services and tools I'm experimenting with like Azure Front Door. The only component that is critical and paid for is the Postgres DB, for which there isn't a free tier (that I've been able to find yet).
 
 The react front-end is still hosted on Github Pages, for free.
+
+#cloud 
