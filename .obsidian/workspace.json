@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogger/2004-01-blog-post.md",
+                "file": "blogger/2004-09-nutters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2004-01-blog-post"
+              "title": "2004-09-nutters"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 635.5
   },
   "right": {
     "id": "d2820e8d0253594a",
@@ -170,32 +170,32 @@
   },
   "active": "338ac6cd996aeb8e",
   "lastOpenFiles": [
-    "published/Thoughts on AI.md",
-    "blogger/p-masjids-in-sa.md",
-    "blogger/p-home.md",
-    "blogger/p-experiments.md",
-    "blogger/p-about.md",
-    "blogger/2012-06-vegetable-garden-that-doesn-require.md",
-    "blogger/2012-06-there-was-nuclear-warfare-in-past-now.md",
+    "blogger/2004-11-cellphone-tricks-and-codes.md",
+    "blogger/2004-09-irrlicht-engine-free-open-source-3d.md",
+    "blogger/2004-09-i-recently-purchased-new-digital.md",
+    "blogger/2004-09-closeup-of-flower.md",
+    "blogger/2005-04-apt-syncing-home-machine.md",
+    "blogger/2005-04-how-to-turn-on-num-lock-on-gnome.md",
+    "blogger/2005-07-wikipedia.md",
+    "blogger/2005-08-its-alive.md",
     "blogger/2012-05-wow.md",
-    "blogger/2012-05-we-are-expecting-some-kind-of.md",
-    "blogger/2012-05-w00p.md",
-    "blogger/2012-05-thanks-to-toby-kurien-for-reminding-me.md",
-    "blogger/2012-05-surprising-news.md",
-    "blogger/2012-05-support-this-initiative-to-save-water.md",
+    "blogger/p-about.md",
     "blogger/2012-05-reshared-post-from-technics-google.md",
-    "blogger/2012-05-problem-with-quotes-on-internet-is.md",
-    "blogger/2012-05-if-you-have-kids-or-kids-in-your.md",
-    "blogger/2012-05-i-thinking-twice-about-my-wifi-hotspot.md",
-    "blogger/2012-05-i-glad-that-in-south-africa-we-have.md",
-    "blogger/2012-05-google-view-post-on-google-post.md",
-    "blogger/2012-05-former-agent-of-cia-has-revealed-that.md",
-    "blogger/2012-05-embedded-link-yasmin-alibhai-brown-why.md",
-    "blogger/2012-05-communicate-with-coffee-textspresso.md",
-    "blogger/2012-05-combined-sowertech-enerweb-team-with.md",
-    "blogger/2012-05-apple-sucks.md",
     "blogger/2012-04-turkish-masjid-midrand-south-africa.md",
-    "blogger/2012-04-turkish-masjid-midrand-south-africa_7258.md",
+    "blogger/2012-03-mechanism-for-memory-encoding-has-now.md",
+    "blogger/2012-03-gravity-0wned.md",
+    "blogger/2012-02-streets-of-van-gogh.md",
+    "blogger/2012-02-oops.md",
+    "blogger/2012-01-we-excited-about-new-personal-search.md",
+    "blogger/2012-01-and-it-hits-media-6-hours-later.md",
+    "blogger/2011-12-httpkckstrujgav.md",
+    "blogger/2011-12-httplifehackercom5864004the-done.md",
+    "blogger/2004-01-blog-post.md",
+    "blogger/2006-01-electromagnetic-wave-mass-continuum_11.md",
+    "blogger/2006-01-alloy-xc-ht_16.md",
+    "blogger/2006-01-alloy-xc-ht.md",
+    "blogger/2004-01-bureaucracy_26.md",
+    "blogger/2004-01-bureaucracy.md",
     "blogger",
     "untitled folder",
     "draft",
