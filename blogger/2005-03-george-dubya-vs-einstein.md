@@ -6,7 +6,7 @@ time_to_read: 5
 title: George Dubya vs Einstein
 -->
 
-RmEinstein was a genius....  
+Einstein was a genius....  
   
 "He who joyfully marches to music in rank and file has already earned my contempt. He has been given a large brain by mistake, since for him the spinal cord would fully suffice. This disgrace to civilization should be done away with at once. Heroism at command, senseless brutality, deplorable love-of-country stance, how violently I hate all this, how despiceable an ignoreable war is; I would rather be torn to shreds than be a part of so base an action! It is my conviction that killing under the cloak of war is nothing but an act of murder." -- Albert Einstein  
   

@@ -8,7 +8,6 @@ title: How to make Ubuntu/Debian .deb packages from source  tar.gz
 
 This is my abbrevitated version of : [Hands On](http://www.geniusweb.com/LDP/HOWTO/Debian-Binary-Package-Building-HOWTO/x83.html)
   
-  
 Step 1: Make the source files
   
 Un-tar your source files. This should result in a directory ./the\_app

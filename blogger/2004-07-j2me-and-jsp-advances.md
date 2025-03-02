@@ -16,12 +16,6 @@ Plugins:
   
 Works like a charm!  
   
---   
-This message has been scanned for viruses and  
-dangerous content by MailScanner, and is  
-believed to be clean.  
-MailScanner thanks transtec Computers for their support.  
-  
 
 [Original post](https://ysfk.blogspot.com/2004/07/j2me-and-jsp-advances.html)
 

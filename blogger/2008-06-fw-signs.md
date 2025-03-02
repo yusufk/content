@@ -16,8 +16,6 @@ title: 'FW: SIGNS..................'
 | --- |
 |  |
 
-NOTE: This e-mail message is subject to the MTN Group disclaimer see http://www.mtn.co.za/default.aspx?pid=34411
-
 [Original post](https://ysfk.blogspot.com/2008/06/fw-signs.html)
 
 #legacy-blogger 

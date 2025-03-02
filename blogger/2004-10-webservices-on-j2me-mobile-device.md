@@ -15,7 +15,7 @@ the template java midlet that I use to communicate to web-services
 with:  
   
 Template.java  
-  
+```
 import java.io.IOException;  
   
 import javax.microedition.lcdui.Command;  
@@ -208,14 +208,8 @@ input2);
  }  
   
 }  
-  
-  
-  
---   
-This message has been scanned for viruses and  
-dangerous content by MailScanner, and is  
-believed to be clean.  
-MailScanner thanks transtec Computers for their support.
+```
+
 
 [Original post](https://ysfk.blogspot.com/2004/10/webservices-on-j2me-mobile-device.html)
 

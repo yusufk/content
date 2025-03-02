@@ -21,7 +21,7 @@ I keep my downloaded packages on my notebook
 on my notebook, are downloaded with apt-get -d install ...  
 I have a www directory linked to /var/cache/apt/archives/,  
 and generate a Packages.gz file here like this:  
-apt-ftparchive packages . | gzip -c > Packages.gz  
+`apt-ftparchive packages . | gzip -c > Packages.gz`  
   
 Then, I add this www directory to my wife's sources.list (at home). If  
 any packages are ever missing from this dir, I rebuild them with  
@@ -29,7 +29,7 @@ dpkg-repack.
   
 The following is a useful little script to rebuild ALL installed  
 packages:  
-dpkg --get-selections | grep [^De]install | cut -f1 | sh -c "while read STRIN; do dpkg-repack \$STRIN ;done"  
+`dpkg --get-selections | grep [^De]install | cut -f1 | sh -c "while read STRIN; do dpkg-repack \$STRIN ;done"`  
   
 Note: dpkg-repack uses the files on the filesystem to rebuild the  
 package. Thus, any config/customisation you've done will be included in  
@@ -46,9 +46,9 @@ wget, copy them to the home machine and dpkg -i \*.deb to install them.
   
 This will dump the apt-get output into a file that wget can use to  
 download in batch mode:  
-apt-get --print-uris -y install ... | grep http | cut -f1 -d' ' | cut -f2 -d\' > debs.toget  
+`apt-get --print-uris -y install ... | grep http | cut -f1 -d' ' | cut -f2 -d\' > debs.toget`  
 To batch fetch the debs:  
-wget -i debs.toget   
+`wget -i debs.toget` 
   
 This should work fairly well, except when packages on the mirror change overnight.   
   
