@@ -10,4 +10,4 @@ title: My new fav series on TV...Ultimate Survival
 
 [Original post](https://ysfk.blogspot.com/2007/09/my-new-fav-series-on-tvultimate.html)
 
-#nature #outdoors #video #legacy-blogger 
+#nat #outdoors #video #legacy-blogger 
