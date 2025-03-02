@@ -15,8 +15,6 @@ Check it out at <http://reviews.cnet.com/4520-6602_7-5020355-1.html>
    
  If your phone isn't listed here (U.S. customers) and you've purchased it within the last few years (the FCC Web site currently does not provide information on models certified before 1998), you can request the SAR information from the manufacturer or your carrier. You'll need the model number and FCC ID number, which is usually but not always listed in your owner's manual or under your phone's battery (you must pop the battery out). For links to the FCC's Web site, please see the More Resources section below. We'll continue to update the list as new phones are announced.
 
-NOTE: This e-mail message is subject to the MTN Group disclaimer see http://www.mtn.co.za/default.aspx?pid=34411
-
 [Original post](https://ysfk.blogspot.com/2008/06/cnets-quick-guide-cell-phone-radiation.html)
 
 #legacy-blogger 

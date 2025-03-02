@@ -9,11 +9,11 @@ title: How to turn on Num Lock on GNOME startup?
 [Unofficial Ubuntu 5.04 Starter Guide](http://www.ubuntuguide.org/#numlockx): "
   
   
-sudo apt-get install numlockx
+`sudo apt-get install numlockx`
   
-sudo cp /etc/X11/gdm/Init/Default /etc/X11/gdm/Init/Default\_backup
+`sudo cp /etc/X11/gdm/Init/Default /etc/X11/gdm/Init/Default\_backup`
   
-sudo gedit /etc/X11/gdm/Init/Default
+`sudo gedit /etc/X11/gdm/Init/Default`
   
   
  4. Find this line
@@ -24,17 +24,15 @@ sudo gedit /etc/X11/gdm/Init/Default
 exit 0
   
   
- 5. Add the following lines above it
+ 1. Add the following lines above it
   
+`if [ -x /usr/bin/numlockx ]; then`
   
-if [ -x /usr/bin/numlockx ]; then
+ `/usr/bin/numlockx on`
   
- /usr/bin/numlockx on
+`fi`
   
-fi
-  
-  
- 6. Save the edited file (sample)
+ 1. Save the edited file (sample)
   
  7. Read How to restart GNOME without rebooting computer?"
 
