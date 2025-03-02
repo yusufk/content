@@ -20,8 +20,6 @@ title: When it's okay to say $%#@!
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5xV17z7IaHs68u6YbnZHAoa2SVBrrSlbydLSHiXdCO7y-sthQ2T1c1mactofvJHsOPIAE841j1_PrV7gNXVzOXavFNVvxKX6m7YR5laqRirOmX0hFdHX5FtW_99BvvfUwJMeo4w/s320/When+it_s+ok+to+say+_%25%23_!+-5739g-7-716713.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5xV17z7IaHs68u6YbnZHAoa2SVBrrSlbydLSHiXdCO7y-sthQ2T1c1mactofvJHsOPIAE841j1_PrV7gNXVzOXavFNVvxKX6m7YR5laqRirOmX0hFdHX5FtW_99BvvfUwJMeo4w/s1600-h/When+it_s+ok+to+say+_%25%23_!+-5739g-7-716713.jpg)
 
-NOTE: This e-mail message is subject to the MTN Group disclaimer see http://www.mtn.co.za/default.aspx?pid=34411
-
 [Original post](https://ysfk.blogspot.com/2008/05/when-its-okay-to-say.html)
 
 #legacy-blogger 
