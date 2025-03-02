@@ -1,7 +1,7 @@
 <!--
 date: '2009-01-28'
 published: true
-slug: 2009-01-recipe-carrot-cake
+slug: carrot-cake
 time_to_read: 5
 title: Carrot Cake
 -->
