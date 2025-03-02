@@ -6,8 +6,6 @@ time_to_read: 5
 title: Carrot Cake
 -->
 
-# Carrot Cake recipe
-
 [![](http://farm4.static.flickr.com/3425/3233893241_b219022f14.jpg)](http://www.flickr.com/photos/yusufk/3233893241/ "photo sharing")   
 ## Ingredients  
   
