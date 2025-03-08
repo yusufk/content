@@ -15,7 +15,6 @@ title: Julie's Macaroni salad
 * ½ green pepper, cubed
 * Salt to taste (approximately 1 teaspoon)
 * Dash of pepper
-* Dash of fresh ground pepper
 * 1 tablespoon sugar
 * Spring onions, chopped
 * Parsley, chopped
