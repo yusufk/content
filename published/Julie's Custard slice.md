@@ -1,5 +1,5 @@
 <!--
-date: '2008-09-05'
+date: 2008-09-05
 published: true
 slug: custard-slice
 time_to_read: 5
