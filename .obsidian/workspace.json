@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "published/Carrot cake.md",
+                "file": "published/azure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carrot cake"
+              "title": "azure"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 217.5
   },
   "right": {
     "id": "d2820e8d0253594a",
@@ -170,6 +170,10 @@
   },
   "active": "798a5210e3be0168",
   "lastOpenFiles": [
+    "published/Julie's Chicken pie.md",
+    "published/Julie's Macaroni salad.md",
+    "published/Julie's Custard slice.md",
+    "published/Carrot cake.md",
     "Untitled 1.canvas",
     "blogger/2012-05-we-are-expecting-some-kind-of.md",
     "blogger/2012-04-tsunami-alert.md",
@@ -193,9 +197,6 @@
     "blogger/2007-03-so-what-exactly-is-north-shore.md",
     "blogger/2007-03-installing-and-setting-up-eclipse-with.md",
     "blogger/2007-02-visited-countries.md",
-    "blogger/2007-02-global-rich-list.md",
-    "blogger/2005-09-future-of-wireless.md",
-    "blogger/2010-04-johannesburgemmerentia-at-its-prettiest.md",
     "Untitled.canvas",
     "blogger",
     "untitled folder",
