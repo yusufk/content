@@ -3,7 +3,7 @@ date: 2008-09-05
 published: true
 slug: chicken-pie
 time_to_read: 5
-title: Chicken Pie
+title: Julie's Chicken Pie
 -->
 
 **1. Prepare the Chicken Filling:**
