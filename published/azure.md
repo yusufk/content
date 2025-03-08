@@ -3,7 +3,7 @@ title: Moving home
 date: 2022-08-09
 -->
 
-This content now lives on Microsoft Azure!
+This content now lives on Microsoft Azure! (Update: not anymore, now purely on GitHub)
 
 After joining Microsoft earlier this year, it made sense to use this site as a learning opportunity by migrating the CMS, previously hosted for Free on Heroku, to Azure.
 
