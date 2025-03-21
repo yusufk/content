@@ -5,8 +5,6 @@ slug: custard-slice
 time_to_read: 5
 title: Julie's Custard slice
 -->
-![[PXL_20250308_030207474~2.jpg]]
-![[PXL_20250308_030216425~2.jpg]]
 
 Yields: Approximately 8-10 servings
 
