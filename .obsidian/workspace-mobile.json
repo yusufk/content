@@ -25,16 +25,32 @@
             "id": "f63c6dca5d990cd2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "media/PXL_20250308_030207474~2.jpg"
+                "file": "drafts/WorkCulture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "PXL_20250308_030207474~2"
+              "icon": "lucide-file",
+              "title": "WorkCulture"
+            }
+          },
+          {
+            "id": "935b28302595e1f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Riddle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Riddle"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "media/PXL_20250308_030207474~2.jpg",
+            "file": "Riddle.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,12 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f63c6dca5d990cd2",
+  "active": "935b28302595e1f0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "drafts/Riddle.md",
+    "blogger/2007-03-bbc-news-middle-east-israeli-army-used.md",
+    "Healthcare.md",
+    "drafts/WorkCulture.md",
+    "media/PXL_20250308_030207474~2.jpg",
     "media",
     "drafts",
     "media/PXL_20250308_030216425~2.jpg",
-    "drafts/WorkCulture.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "published/Julie's Chicken pie.md",
@@ -179,7 +200,6 @@
     "published/Thoughts on AI.md",
     "published/Julie's Macaroni salad.md",
     "published/Julie's Custard slice.md",
-    "media/PXL_20250308_030207474~2.jpg",
     "blogger/2008-05-sony-ericssons-new-project-capuchin.md",
     "published/carrot cake.md",
     "blogger/2008-05-when-its-okay-to-say.md",
@@ -195,9 +215,6 @@
     "blogger/2006-07-how-to-write-worlds-smallest-hello.md",
     "blogger/2006-07-how-to-write-world-smallest-world.md",
     "blogger/2006-05-nick-adventures-with-series-60-phones.md",
-    "blogger/2006-04-well-said-that-pretty-much-somes-up.md",
-    "blogger/2006-04-well-said-that-pretty-much-somes-up-uss.md",
-    "README.md",
-    "blogger/2006-04-ultimate-camo-not-sure-if-this-idea-has.md"
+    "blogger/2006-04-well-said-that-pretty-much-somes-up.md"
   ]
 }
