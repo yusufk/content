@@ -11,10 +11,14 @@
             "id": "3d1a47f0cbd73f1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Ascii Art.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ascii Art"
             }
           }
         ]
@@ -167,11 +171,11 @@
   },
   "active": "95a17e7f5f198122",
   "lastOpenFiles": [
+    "drafts/WorkCulture.md",
     "drafts/Ascii Art.md",
     "media/PXL_20250308_030216425~2.jpg",
     "media/PXL_20250308_030207474~2.jpg",
     "media",
-    "drafts/WorkCulture.md",
     "drafts",
     "Untitled.md",
     "Untitled 1.canvas",
