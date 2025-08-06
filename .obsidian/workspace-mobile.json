@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "published/Julie's Chicken pie.md",
+                "file": "yusuf.kaka.co.za.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Julie's Chicken pie"
+              "title": "yusuf.kaka.co.za"
             }
           },
           {
@@ -34,23 +34,8 @@
               "icon": "lucide-file",
               "title": "WorkCulture"
             }
-          },
-          {
-            "id": "935b28302595e1f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dischem store visit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dischem store visit"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -513,6 +498,46 @@
         "id": "238624bc895970eb",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "New tab"
+        }
+      },
+      {
+        "id": "2cf903f5445e70b3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "New tab"
+        }
+      },
+      {
+        "id": "6f868df6e53107b6",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "New tab"
+        }
+      },
+      {
+        "id": "b4ff9b7cce8ceb2c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "New tab"
+        }
+      },
+      {
+        "id": "7fc262173063401d",
+        "type": "leaf",
+        "state": {
           "type": "BC-matrix",
           "state": {},
           "icon": "BC-trail-icon",
@@ -520,7 +545,7 @@
         }
       },
       {
-        "id": "2cf903f5445e70b3",
+        "id": "6295d0f931df5d7e",
         "type": "leaf",
         "state": {
           "type": "BC-tree",
@@ -541,13 +566,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cf903f5445e70b3",
+  "active": "cd76743b8b46935e",
   "lastOpenFiles": [
+    "2025-08-06.md",
+    "yusuf.kaka.co.za.md",
+    "published/Julie's Chicken pie.md",
+    "drafts/Dischem store visit.md",
     "drafts/AI memory - memOS.md",
-    "Dischem store visit.md",
     "drafts.md",
     "drafts/WorkCulture.md",
     "drafts/Riddle.md",
@@ -561,7 +590,6 @@
     "media/PXL_20250308_030216425~2.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "published/Julie's Chicken pie.md",
     "published/azure.md",
     "published/Thoughts on AI.md",
     "published/Julie's Macaroni salad.md",
@@ -573,10 +601,8 @@
     "blogger/2008-01-test-my-encounter-with-miller-fisher.md",
     "blogger/2007-12-noknok.md",
     "blogger/2007-05-rip-sms.md",
-    "yusuf.kaka.co.za.md",
     "blogger/2006-12-israel-agog-at-olmert-slip-of-tongue.md",
     "blogger/2006-07-linuxcom-dual-booting-windows-and-linux.md",
-    "blogger/2006-05-nicks-adventures-with-series-60-phones.md",
-    "blogger/2006-07-linuxcom-dual-booting-windows-and.md"
+    "blogger/2006-05-nicks-adventures-with-series-60-phones.md"
   ]
 }
