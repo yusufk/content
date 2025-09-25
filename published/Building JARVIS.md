@@ -1,4 +1,7 @@
-## The Problem with Stateless AI
+	<!--
+title: Building JARVIS
+date: 2025-09-25
+-->
 
 For some reason, I've not caught onto using ChatGPT or Gemini. Instead, I've ended up using Q CLI most. The issue though is that AI interactions start from scratch every time. No memory of previous conversations, preferences, or context. This makes Q cli a useful tools but a poor assistant.
 
