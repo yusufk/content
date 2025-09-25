@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "published/Thoughts on AI.md",
+                "file": "published/azure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thoughts on AI"
+              "title": "azure"
             }
           }
         ],
@@ -187,15 +187,17 @@
   },
   "active": "6559494181cc51ac",
   "lastOpenFiles": [
+    "published/Building JARVIS.md",
+    "published/Carrot cake.md",
     "published/websites.md",
-    "published/Thoughts on AI.md",
-    "published/microsoft.md",
+    "published/Obsidian.md",
+    "published/nft.md",
     "published/Julie's Macaroni salad.md",
     "published/Julie's Custard slice.md",
-    "published/flight.md",
-    "published/Carrot cake.md",
-    "published/Building JARVIS.md",
     "published/azure.md",
+    "published/Thoughts on AI.md",
+    "published/microsoft.md",
+    "published/flight.md",
     "yusuf.kaka.co.za.md",
     "README.md",
     "drafts/Riddle.md",
@@ -217,8 +219,6 @@
     "blogger/2012-03-thu09-my-ted-talk-about-lessons-i.md",
     "blogger/2012-03-ted-2012-favorites-robots-that-flyand.md",
     "blogger/2012-03-this-mindblowing-photo-of-world-map-in.md",
-    "blogger/2012-02-venting.md",
-    "blogger/2012-01-our-trevor.md",
     "blogger",
     "untitled folder",
     "draft",
