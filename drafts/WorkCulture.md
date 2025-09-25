@@ -1,4 +1,4 @@
-The best #WorkCulture experiences I've had had the following: 
+The best #WorkCulture experiences I've had had the following features: 
 1) Leadership that valued culture and were deliberate about establishing a good culture. 
 2) Leaders that clearly articulated and reinforced a shared, audacious, impactful purpose that individuals were able to align to their personal sense of purpose.
 3) Leaders that engaged at a human level.
