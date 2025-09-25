@@ -38,6 +38,26 @@ jobs:
           cd published
           files=$(find . -maxdepth 1 -name "*.md" -type f -exec basename {} \; | jq -R . | jq -s .)
           echo $files > index.json
+      - name: Generate SEO pages
+        run: |
+          cd published
+          for file in *.md; do
+            if [ -f "$file" ]; then
+              slug=$(basename "$file" .md)
+              title=$(grep '^# ' "$file" | head -1 | sed 's/^# //' || echo "$slug")
+              mkdir -p "articles/$slug"
+              cat > "articles/$slug/index.html" << EOF
+          <!DOCTYPE html>
+          <html><head>
+          <title>$title</title>
+          <meta name="description" content="$(head -10 "$file" | grep -v '^#' | head -3 | tr '\n' ' ')">
+          </head><body>
+          <pre>$(cat "$file")</pre>
+          <script>setTimeout(() => location.href='https://yusuf.kaka.co.za/#!/articles/$slug', 100)</script>
+          </body></html>
+          EOF
+            fi
+          done
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
