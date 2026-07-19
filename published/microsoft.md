@@ -1,5 +1,5 @@
 <!--
-title: A year at Microsoft
+title: Microsoft
 date: 2023-08-21
 --->
 

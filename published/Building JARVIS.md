@@ -97,3 +97,36 @@ The complete setup uses:
 - Home Assistant integration for smart home control
 
 This creates an AI that truly knows you, learns from interactions, and integrates with your digital life - moving from tool to cognitive partner.
+
+
+## 2026 Update — Evolution to Claude Code
+
+The Amazon Q CLI / JARVIS setup above has been superseded. The architecture has evolved significantly:
+
+### What Changed
+
+The persistent memory system has moved from Amazon Q CLI to a **Claude Code agent** running inside a containerised WhatsApp bridge (nanoclaw). This means:
+
+- **No more Q CLI** — JARVIS now runs as Claude (Anthropic's model), accessed directly via WhatsApp
+- **Memory lives in the workspace** — `/workspace/group/` replaces `~/Documents/Obsidian/AI-brain/` as the primary agent memory store, with structured `.md` files for profile, home assistant notes, etc.
+- **Obsidian still used for content** — but as a publishing/blogging platform rather than the AI's primary brain
+- **Home Assistant** integration is retained — connection details and API patterns now stored in `/workspace/group/home-assistant.md`
+- **MCP servers** still power tool access (Home Assistant, web fetch, Obsidian), but are configured in the nanoclaw container rather than a local Q CLI agent file
+
+### Current Architecture
+
+```
+WhatsApp → nanoclaw bridge → Claude Code agent
+├── Workspace memory (/workspace/group/)
+│   ├── yusuf.md          (profile & context)
+│   ├── home-assistant.md (HA integration notes)
+│   └── CLAUDE.md         (identity & instructions)
+├── MCP Servers
+│   ├── Home Assistant (http://cappucino:8123)
+│   ├── Obsidian vault (read/write)
+│   └── Web fetch
+└── Scheduled tasks (via nanoclaw)
+```
+
+The core goal remains the same — an AI that knows you, remembers context across sessions, and integrates with your digital life. The delivery mechanism just got a whole lot more seamless.
+
