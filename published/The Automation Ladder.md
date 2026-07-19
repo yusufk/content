@@ -1,9 +1,8 @@
----
+<!--
 title: "The Automation Ladder: A New Career Framework for Engineering"
 date: 2026-05-29
 tags: [engineering, career, leadership, automation]
-ai_generated: true
----
+-->
 
 > *This post was written with AI assistance. The ideas are mine; the words were shaped collaboratively with an AI writing partner.*
 
